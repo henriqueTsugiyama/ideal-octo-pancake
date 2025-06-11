@@ -25,3 +25,6 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+
+## Project Render Url
+https://ideal-octo-pancake.onrender.com/
